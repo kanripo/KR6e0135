@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:46.421003
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:51
 #+TITLE: 註華嚴同教一乘策
 #+PROPERTY: CBETA_ID X58n1016
 #+PROPERTY: ID KR6e0135
